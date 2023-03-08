@@ -16,3 +16,4 @@ And hidden files (starting with .)
 - 11-a script that lists all files .
 - 12-a script that prints the type of the file named iamafile.
 - 13-a script to create  a symbolic link.
+- 14- a script that copies all the HTML files.
