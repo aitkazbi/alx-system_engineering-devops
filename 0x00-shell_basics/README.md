@@ -10,3 +10,5 @@ with user and group IDs displayed numerically
 And hidden files (starting with .)
 - 6-a script that creates a directory named my\_first\_directory in the /tmp/ directory.
 - 7-Move the file betty from /tmp/ to /tmp/my\_first\_directory.
+- 8-Remove betty file
+
