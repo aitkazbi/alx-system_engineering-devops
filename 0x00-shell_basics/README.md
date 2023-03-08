@@ -13,4 +13,5 @@ And hidden files (starting with .)
 - 8-Remove betty file.
 - 9-Delete the directory my\_first\_directory that is in the /tmp directory.
 - 10-a script that changes the working directory to the previous one.
+- 11-a script that lists all files .
 
