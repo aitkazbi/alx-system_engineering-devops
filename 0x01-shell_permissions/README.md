@@ -13,3 +13,6 @@
 - 9.Write a script that sets the mode of the file hello to this.
 - 10.Write a script that sets the mode of the file hello the same as olleh’s mo   de.
 - 11.Create a script that adds execute permission to all subdirectories of the   current directory for the owner, the group owner and all other users.
+- 12.a script that creates a directory called my\_dir with permissions 751 in the working directory.
+
+
