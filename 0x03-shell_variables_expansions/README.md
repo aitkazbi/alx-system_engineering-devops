@@ -8,3 +8,6 @@
 -6.a script hat creates a new local variable.
 Name: BEST
 Value: School
+-7.a script that creates a new global variable.
+Name: BEST
+Value: School
